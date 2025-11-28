@@ -1,0 +1,386 @@
+{
+  "体型": {
+    "形": [
+      {
+        "prompt": "voluptuous",
+        "name": "ムチムチ"
+      },
+      {
+        "prompt": "plump",
+        "name": "ぽっちゃり"
+      }
+    ]
+  },
+  "髪": {
+    "髪色": [
+      {
+        "prompt": "black hair",
+        "name": "黒髪"
+      },
+      {
+        "prompt": "brown hair",
+        "name": "茶髪"
+      },
+      {
+        "prompt": "blonde hair",
+        "name": "金髪"
+      },
+      {
+        "prompt": "red hair",
+        "name": "赤髪"
+      },
+      {
+        "prompt": "purple hair",
+        "name": "紫髪"
+      },
+      {
+        "prompt": "blue hair",
+        "name": "青髪"
+      },
+      {
+        "prompt": "pink hair",
+        "name": "ピンク髪"
+      },
+      {
+        "prompt": "white hair",
+        "name": "白髪"
+      }
+    ],
+    "髪型": [
+      {
+        "prompt": "Add hair rings",
+        "name": "髪で輪っかを作る"
+      },
+      {
+        "prompt": "official hairstyle",
+        "name": "公式ヘアスタイル"
+      },
+      {
+        "prompt": "hair down",
+        "name": "下ろした髪"
+      },
+      {
+        "prompt": "braid pig tails",
+        "name": "三つ編みツインテール"
+      },
+      {
+        "prompt": "double bun and twin tails",
+        "name": "お団子＋ツインテール"
+      },
+      {
+        "prompt": "twist updo",
+        "name": "後頭部でまとめたお団子"
+      },
+      {
+        "prompt": "twin braids hair",
+        "name": "デコ出し三つ編み"
+      },
+      {
+        "prompt": "twin tails hair",
+        "name": "デコ出しツインテール"
+      },
+      {
+        "prompt": "ponytail hair",
+        "name": "デコ出しポニーテール"
+      },
+      {
+        "prompt": "long hair",
+        "name": "デコ出しロングヘアー"
+      },
+      {
+        "prompt": "extra short hair",
+        "name": "オールバック"
+      },
+      {
+        "prompt": "A-line bob cut hair",
+        "name": "Aラインボブ"
+      },
+      {
+        "prompt": "mushroom cut hair",
+        "name": "マッシュルームカット"
+      },
+      {
+        "prompt": "buzz cut",
+        "name": "ショートヘア（ピクシー）"
+      },
+      {
+        "prompt": "curly hair",
+        "name": "巻き毛"
+      },
+      {
+        "prompt": "pompadour hair",
+        "name": "リーゼント/ポンパドール"
+      },
+      {
+        "prompt": "afro",
+        "name": "アフロヘアー"
+      },
+      {
+        "prompt": "short twintails",
+        "name": "ショートツインテール"
+      },
+      {
+        "prompt": "low twintails",
+        "name": "おさげ"
+      },
+      {
+        "prompt": "side ponytail",
+        "name": "サイドポニーテール"
+      },
+      {
+        "prompt": "high ponytail",
+        "name": "ハイポニーテール"
+      },
+      {
+        "prompt": "half updo",
+        "name": "ハーフアップ"
+      },
+      {
+        "prompt": "dreadlocks",
+        "name": "ドレッドヘアー"
+      },
+      {
+        "prompt": "chignon",
+        "name": "シニヨン"
+      },
+      {
+        "prompt": "double bun topknot",
+        "name": "お団子頭"
+      },
+      {
+        "prompt": "bedhead",
+        "name": "寝癖"
+      },
+      {
+        "prompt": "french braid",
+        "name": "編み込み"
+      },
+      {
+        "prompt": "braided bun",
+        "name": "編み込みお団子"
+      },
+      {
+        "prompt": "braided ponytail",
+        "name": "編み込みポニーテール"
+      },
+      {
+        "prompt": "pixie cut",
+        "name": "ピクシーカット"
+      },
+      {
+        "prompt": "hime cut blunt bangs bob cut",
+        "name": "姫カット"
+      },
+      {
+        "prompt": "messy hair",
+        "name": "ぼさぼさ髪"
+      },
+      {
+        "prompt": "spiked hair",
+        "name": "ツンツン頭"
+      },
+      {
+        "prompt": "twintails",
+        "name": "ツインテール"
+      },
+      {
+        "prompt": "antenna hair",
+        "name": "アホ毛"
+      },
+      {
+        "prompt": "bangs",
+        "name": "前髪"
+      },
+      {
+        "prompt": "bob cut",
+        "name": "ボブヘア"
+      },
+      {
+        "prompt": "medium hair",
+        "name": "セミロング"
+      },
+      {
+        "prompt": "two side up",
+        "name": "ツーサイドアップ"
+      },
+      {
+        "prompt": "straight hair",
+        "name": "ストレートヘアー"
+      },
+      {
+        "prompt": "wavy hair",
+        "name": "ウェーブヘアー"
+      },
+      {
+        "prompt": "shiny hair",
+        "name": "艶のある髪"
+      },
+      {
+        "prompt": "flowing hair",
+        "name": "流れる髪"
+      },
+      {
+        "prompt": "crossed bangs",
+        "name": "クロス前髪"
+      }
+    ]
+  },
+  "目": {
+    "目の色": [
+      {
+        "prompt": "black eyes",
+        "name": "黒い目"
+      },
+      {
+        "prompt": "blue eyes",
+        "name": "青い目"
+      },
+      {
+        "prompt": "brown eyes",
+        "name": "茶色い目"
+      },
+      {
+        "prompt": "green eyes",
+        "name": "緑色の目"
+      },
+      {
+        "prompt": "red eyes",
+        "name": "赤い目"
+      },
+      {
+        "prompt": "heterochromia",
+        "name": "オッドアイ"
+      }
+    ],
+    "目の形": [
+      {
+        "prompt": "big eyes",
+        "name": "大きな目"
+      },
+      {
+        "prompt": "sleepy eyes",
+        "name": "眠そうな目"
+      },
+      {
+        "prompt": "upward-slanted eyes",
+        "name": "つり目"
+      },
+      {
+        "prompt": "downward-slanted eyes",
+        "name": "たれ目"
+      },
+      {
+        "prompt": "squinting eyes",
+        "name": "ジト目"
+      },
+      {
+        "prompt": "half-closed eyes",
+        "name": "半目"
+      }
+    ]
+  },
+  "背景": {
+    "種類": [
+      {
+        "prompt": "outdoors",
+        "name": "屋外"
+      },
+      {
+        "prompt": "indoors",
+        "name": "屋内"
+      },
+      {
+        "prompt": "city",
+        "name": "都会"
+      },
+      {
+        "prompt": "forest",
+        "name": "森"
+      },
+      {
+        "prompt": "beach",
+        "name": "ビーチ"
+      },
+      {
+        "prompt": "sky",
+        "name": "空"
+      },
+      {
+        "prompt": "night sky",
+        "name": "夜空"
+      },
+      {
+        "prompt": "classroom",
+        "name": "教室"
+      },
+      {
+        "prompt": "cafe",
+        "name": "カフェ"
+      },
+      {
+        "prompt": "bedroom",
+        "name": "寝室"
+      }
+    ]
+  },
+  "服": {
+    "種類": [
+      {
+        "prompt": "gym uniform",
+        "name": "体操服"
+      },
+      {
+        "prompt": "school uniform",
+        "name": "制服"
+      },
+      {
+        "prompt": "swimsuit",
+        "name": "水着"
+      },
+      {
+        "prompt": "dress",
+        "name": "ドレス"
+      },
+      {
+        "prompt": "T-shirt",
+        "name": "Tシャツ"
+      },
+      {
+        "prompt": "shirt",
+        "name": "シャツ"
+      },
+      {
+        "prompt": "skirt",
+        "name": "スカート"
+      },
+      {
+        "prompt": "pants",
+        "name": "ズボン"
+      },
+      {
+        "prompt": "jacket",
+        "name": "ジャケット"
+      },
+      {
+        "prompt": "hoodie",
+        "name": "パーカー"
+      },
+      {
+        "prompt": "yukata",
+        "name": "浴衣"
+      },
+      {
+        "prompt": "kimono",
+        "name": "着物"
+      },
+      {
+        "prompt": "sweater",
+        "name": "セーター"
+      },
+      {
+        "prompt": "jeans",
+        "name": "ジーンズ"
+      }
+    ]
+  }
+}

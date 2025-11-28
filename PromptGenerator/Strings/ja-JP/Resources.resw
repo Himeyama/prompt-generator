@@ -22,7 +22,7 @@
   <data name="CancelText.Text" xml:space="preserve"><value>キャンセル</value></data>
   <data name="ZoomInText.Text" xml:space="preserve"><value>Ctrl + プラス記号 (+)</value></data>
   <data name="ZoomOutText.Text" xml:space="preserve"><value>Ctrl + マイナス記号 (-)</value></data>
-  <data name="AppTitleText.Text" xml:space="preserve"><value>お絵かきソフト</value></data>
+  <data name="AppTitleText.Text" xml:space="preserve"><value>かんたん画像生成 AI</value></data>
   <data name="Generate.Text" xml:space="preserve"><value>生成</value></data>
   <data name="CharactorTextBox.PlaceholderText" xml:space="preserve"><value>キャラクター</value></data>
 </root>

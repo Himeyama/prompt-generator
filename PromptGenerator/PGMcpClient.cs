@@ -77,7 +77,7 @@ public class PGMcpClient
     {
         if(initializedSuccessfully && client is not null)
         {
-            CallToolResult result = await client.CallToolAsync("generate_image", new Dictionary<string, object?>
+            CallToolResult result = await client.CallToolAsync("generate_image", new Dictionary<string, object>
             {
                 { "prompt", prompt }
             });

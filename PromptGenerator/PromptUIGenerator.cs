@@ -56,8 +56,17 @@ public class PromptUIGenerator
         }
 
         // ドキュメントフォルダから取得
-        string documentsPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
-        return Path.Combine(documentsPath, "prompts.json");
+        string homeDirectory = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile);
+        string baseDirectory = Path.Combine(homeDirectory, "prompt-generator");
+
+        if (!Directory.Exists(baseDirectory))
+            Directory.CreateDirectory(baseDirectory);
+
+        string configPath = Path.Combine(
+            baseDirectory,
+            "prompts.json"
+        );
+        return configPath;
     }
 
     private void LoadAndGenerateUI(string jsonPath)

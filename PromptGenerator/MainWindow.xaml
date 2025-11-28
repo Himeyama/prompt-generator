@@ -26,7 +26,7 @@
                             <TextBlock Text="無効" IsHitTestVisible="False" FontSize="8" Margin="18, 14, 0, 0" Name="DisableAutoSave"/>
                         </Grid>
                     </Grid> -->
-                    <MenuBar Grid.Column="1">
+                    <!-- <MenuBar Grid.Column="1">
                         <MenuBarItem Title="File" x:Uid="File" AccessKey="F">
                             <MenuFlyoutItem Text="Open" x:Uid="Open" Click="ClickOpen" AccessKey="O">
                                 <MenuFlyoutItem.Icon>
@@ -124,7 +124,7 @@
                         <MenuBarItem Title="Help" x:Uid="Help" AccessKey="H">
                             <MenuFlyoutItem Text="About" x:Uid="About" Click="ClickAbout" AccessKey="A" />
                         </MenuBarItem>
-                    </MenuBar>
+                    </MenuBar> -->
                 </Grid>
                 <Grid x:Name="AppTitleBar" Grid.Column="1" />
             </Grid>
