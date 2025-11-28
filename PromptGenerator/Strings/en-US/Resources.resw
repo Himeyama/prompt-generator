@@ -22,5 +22,7 @@
   <data name="CancelText.Text" xml:space="preserve"><value>Cancel</value></data>
   <data name="ZoomInText.Text" xml:space="preserve"><value>Ctrl + Plus (+)</value></data>
   <data name="ZoomOutText.Text" xml:space="preserve"><value>Ctrl + Minus (-)</value></data>
-  <data name="AppTitleText.Text" xml:space="preserve"><value>App title</value></data>
+  <data name="AppTitleText.Text" xml:space="preserve"><value>Prompt Generator for SDXL</value></data>
+  <data name="Generate.Text" xml:space="preserve"><value>Generate</value></data>
+  <data name="CharactorTextBox.PlaceholderText" xml:space="preserve"><value>Charactor</value></data>
 </root>

@@ -1,6 +1,6 @@
 using Microsoft.UI.Xaml;
 
-namespace WinUIExample;
+namespace PromptGenerator;
 public partial class App : Application
 {
     public App()

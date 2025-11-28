@@ -1,11 +1,11 @@
-$csproj = ".\WinUIExample\WinUIExample.csproj"
-$appName = "WinUIExample"
+$csproj = ".\PromptGenerator\PromptGenerator.csproj"
+$appName = "PromptGenerator"
 $publisher = "ひかり"
-$execFile = "WinUIExample.exe"
+$execFile = "PromptGenerator.exe"
 $version = (Get-Date).ToString("yy.M.d")
 $date = (Get-Date).ToString("yyyyMMdd")
-$publishDir = "WinUIExample\publish"
-$muiIcon = "WinUIExample\Assets\App.ico"
+$publishDir = "PromptGenerator\publish"
+$muiIcon = "PromptGenerator\Assets\App.ico"
 
 $startMenuPath = [Environment]::GetFolderPath("Programs")
 
